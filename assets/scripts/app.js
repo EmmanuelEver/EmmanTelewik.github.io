@@ -9,7 +9,7 @@ const Portfolio = function() {
 				weight: 8
 			}, {
 				text: "javascript",
-				weight: 14
+				weight: 10
 			}, {
 				text: "jquery",
 				weight: 5
@@ -32,6 +32,18 @@ const Portfolio = function() {
 			 {
 				text: "Flask",
 				weight: 10
+			},
+			{
+				text: "ReactJs",
+				weight: 15
+			},
+			{
+				text: "Materuial-UI",
+				weight: 10
+			},
+			{
+				text: "Firebase",
+				weight: 13
 			}
 		];
 		return words;
